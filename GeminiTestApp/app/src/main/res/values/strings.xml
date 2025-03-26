@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yarn Stash</string>
+    <string name="add_yarn">Add Yarn</string>
+    <string name="add_needle">Add Needle</string>
+    <string name="yarn_list_title">Yarn List</string>
+    <string name="yarn_details_title">Yarn Details</string>
+    <string name="yarn_brand_name">Brand</string>
+    <string name="yarn_name">Name</string>
+    <string name="colorway">Colorway</string>
+    <string name="yardage">Meterage</string>
+    <string name="skein_weight">Skein Weight</string>
+    <string name="skeins">Skeins</string>
+    <string name="needle_list_title">Needle List</string>
+    <string name="needle_details_title">Needle Details</string>
+    <string name="needle_brand_name">Brand</string>
+    <string name="needle_size">Size</string>
+    <string name="needle_type">Type</string>
+    <string name="no_yarn_selected">No yarn selected</string>
+    <string name="no_needle_selected">No needle selected</string>
+    <string name="yarn_list">Yarn List</string>
+    <string name="needle_list">Needle List</string>
+</resources>
