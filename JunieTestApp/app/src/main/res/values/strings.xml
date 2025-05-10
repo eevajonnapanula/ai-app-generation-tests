@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Yarn Stash</string>
+
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="yarn">Yarn</string>
+    <string name="needles">Needles</string>
+
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="back">Back</string>
+    <string name="add">Add</string>
+
+    <!-- Home Screen -->
+    <string name="welcome_message">Welcome to Yarn Stash!</string>
+    <string name="add_yarn">Add Yarn</string>
+    <string name="add_needles">Add Needles</string>
+    <string name="view_yarn">View Yarn</string>
+    <string name="view_needles">View Needles</string>
+
+    <!-- Yarn -->
+    <string name="yarn_list">Yarn List</string>
+    <string name="yarn_details">Yarn Details</string>
+    <string name="add_new_yarn">Add New Yarn</string>
+    <string name="edit_yarn">Edit Yarn</string>
+    <string name="brand_name">Brand Name</string>
+    <string name="yarn_name">Yarn Name</string>
+    <string name="colorway">Colorway</string>
+    <string name="yardage_in_meters">Yardage (meters)</string>
+    <string name="weight_of_skein">Weight of Skein (grams)</string>
+    <string name="amount_of_skeins">Amount of Skeins</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="select_picture">Select Picture</string>
+
+    <!-- Knitting Needles -->
+    <string name="needles_list">Needles List</string>
+    <string name="needles_details">Needles Details</string>
+    <string name="add_new_needles">Add New Needles</string>
+    <string name="edit_needles">Edit Needles</string>
+    <string name="size_in_mm">Size (mm)</string>
+    <string name="needle_type">Needle Type</string>
+    <string name="single_pointed">Single Pointed</string>
+    <string name="double_pointed">Double Pointed</string>
+    <string name="circular">Circular</string>
+</resources>
