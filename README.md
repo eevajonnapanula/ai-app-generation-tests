@@ -4,6 +4,7 @@ The repository includes apps tested with the following:
 
 - [Gemini](https://github.com/eevajonnapanula/ai-app-generation-tests/tree/main/GeminiTestApp)
 - [Junie](https://github.com/eevajonnapanula/ai-app-generation-tests/tree/main/JunieTestApp)
+- [Cursor](https://github.com/eevajonnapanula/ai-app-generation-tests/tree/main/CursorTestApp)
 
 Plans for next tests:
-- Cursor
+- Claude Code
